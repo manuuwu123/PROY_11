@@ -1,0 +1,38 @@
+[
+  {
+    "codigoProducto": "01",
+    "nombreProducto": "PANTALON",
+    "inventarioProducto": 18,
+    "precioProducto": 45000
+  },
+  {
+    "codigoProducto": "02",
+    "nombreProducto": "CAMISA",
+    "inventarioProducto": 8,
+    "precioProducto": 15000
+  },
+  {
+    "codigoProducto": "03",
+    "nombreProducto": "MEDIAS",
+    "inventarioProducto": 16,
+    "precioProducto": 1000
+  },
+  {
+    "codigoProducto": "02",
+    "nombreProducto": "CHAQUETA",
+    "inventarioProducto": 19,
+    "precioProducto": 35000
+  },
+  {
+    "codigoProducto": "05",
+    "nombreProducto": "ZAPATOS",
+    "inventarioProducto": 9,
+    "precioProducto": 75000
+  },
+  {
+    "codigoProducto": "06",
+    "nombreProducto": "TENIS",
+    "inventarioProducto": 11,
+    "precioProducto": 65000
+  }
+]
